@@ -1,3 +1,3 @@
 # TOOL-Bot
 spits tool lyrics
-https://replit.com/@shreyadas6/tool-bot
+https://replit.com/@trrnipple/tool-bot#main.py
